@@ -6,7 +6,7 @@ import { SlBasket } from "react-icons/sl";
 
 export default function NavTwo() {
   return (
-    <div className="navbar bg-base-100 max-w-360 mx-auto px-5">
+    <div className="navbar bg-base-100 max-w-6xl mx-auto px-5">
       <div className="flex-1">
         <ul className="menu menu-horizontal px-1">
           <button className="flex gap-3 items-center bg-base-100 rounded-full">

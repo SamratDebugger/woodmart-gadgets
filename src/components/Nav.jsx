@@ -4,7 +4,7 @@ import { Link } from "react-router";
 
 export default function Nav() {
   return (
-    <div className="navbar max-w-360 mx-auto px-5 gap-5 ">
+    <div className="navbar max-w-6xl mx-auto px-5 gap-5 ">
       <div className="navbar-start w-auto">
         <Link to="/" className="">
           <img src="/assets/images/logo.svg" alt="woodmart-logo" />
